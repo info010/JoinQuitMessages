@@ -1,0 +1,3 @@
+join-message: "&a[%player%] oyuna giriş yaptı."
+quit-message: "&c[%player%] oyundan çıkış yaptı."
+test-message: "&6[%player%] test."
